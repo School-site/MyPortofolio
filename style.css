@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#section1{
+    background-color: aliceblue;
+    padding: 15px;
+    font-size: 25px;
+    color: blue;
+    
+}
+#section1{
+    background-color: cyan;
+    padding: 15px;
+    font-size: 25px;
+    color: darkolivegreen;
+    
+}#section1{
+    background-color: lightskyblue;
+    padding: 15px;
+    font-size: 25px;
+    color: darkmagenta;
+    
+}#section1{
+    background-color: aquamarine;
+    padding: 15px;
+    font-size: 25px;
+    color: darkgreen;
+    
+}#section1{
+    background-color: lightcyan;
+    padding: 15px;
+    font-size: 25px;
+    color: darkgoldenrod;
+    
+}
+.anything{
+    z-index: 10;
+    top: 0px;
+    width: 100%;
+    position: fixed;
+    background-color: ghostwhite;
+    margin-top: 0px;
+}
+.links{
+    display: inline;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: red;
+}
